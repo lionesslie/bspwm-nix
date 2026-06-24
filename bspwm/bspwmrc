@@ -42,4 +42,3 @@ feh --bg-scale Resimler/Wallpaper/1.jpg &
 udiskie -t &
 udisksctl mount -b /dev/sda1 &
 udisksctl mount -b /dev/sdc1 &
-bspc rule -a Ryujinx state=floating &
